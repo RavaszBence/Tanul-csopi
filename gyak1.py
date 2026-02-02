@@ -1,5 +1,6 @@
 import random
 
+
 random_szamok = []
 for x in range(50):
     random_szamok.append(random.randint(0, 100))
